@@ -14,8 +14,7 @@ description: This is the home page of Adobe Camera Raw APIs
 
 Adobe Camera Raw (ACR) is the raw imaging engine that powers the Camera Raw plugin inside Photoshop, Lightroom Classic, and Lightroom. Learn how to create Profiles and Presets using Camera Raw.
 
-* [Get the Profile SDK](https://console.adobe.io/downloads/cr)
-
+* [Get the Profile SDK](https://helpx.adobe.com/camera-raw/digital-negative.html#resources)
 
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
